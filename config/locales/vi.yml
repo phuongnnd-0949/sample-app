@@ -1,0 +1,26 @@
+vi:
+  home: "Trang chủ"
+  help: "Giúp đỡ"
+  about: "Về chúng tôi"
+  english: "Tiếng Anh"
+  vietnamese: "Tiếng Việt"
+  RoRTut: "Hướng dẫn Ruby on Rails"
+  sampleApp: "Ứng dụng mẫu"
+  static_pages:
+    home:
+      textHome1: "Đây là trang chủ cho demo ứng dụng"
+      textHome2: "."
+    help:
+      helpPage: "trang trợ giúp của Rails"
+      textHelp1: "Nhận trợ giúp của Ruby on Rails tại"
+      textHelp2: "Để nhận trợ giúp về  ứng dụng demo này, hãy xem"
+      textHelp3: "quyển sách"
+      textHelp4: "."
+    about:
+      textAbout1: ""
+      textAbout2: "là một"
+      textAbout3: "quyển sách"
+      textAbout4: "và"
+      textAbout5: "loạt screencast"
+      textAbout6: "để dạy phát triển web với"
+      textAbout7: "Đây là demo ứng dụng cho hướng dẫn."

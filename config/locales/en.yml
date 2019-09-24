@@ -1,2 +1,26 @@
 en:
-  hello: "Hello world"
+  home: "Home"
+  help: "Help"
+  about: "About"
+  english: "English"
+  vietnamese: "Vietnamese"
+  RoRTut: "Ruby on Rails Tutorial"
+  sampleApp: "Sample App"
+  static_pages:
+    home:
+      textHome1: "This is the home page for the"
+      textHome2: "sample application."
+    help:
+      helpPage: "Rails Tutorial help page"
+      textHelp1: "Get help on the Ruby on Rails Tutorial at the"
+      textHelp2: "To get help on this sample app, see the"
+      textHelp3: "book"
+      textHelp4: "."
+    about:
+      textAbout1: "The "
+      textAbout2: "is a"
+      textAbout3: "book"
+      textAbout4: "and"
+      textAbout5: "screencast series"
+      textAbout6: "to teach web development with"
+      textAbout7: "This is the sample application for the tutorial."

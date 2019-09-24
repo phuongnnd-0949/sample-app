@@ -1,2 +1,11 @@
-<h1>StaticPages#home</h1>
-<p>Find me in app/views/static_pages/home.html.erb</p>
+<% provide :title, t("home") %>
+
+<%= link_to t("english"), locale: "en" %>
+<%= link_to t("vietnamese"), locale: "vi" %>
+
+<h1><%= t("sampleApp")%></h1>
+<p>
+  <%= t ".textHome1" %>
+  <%= link_to t("RoRTut"), Settings.home.homePage %>
+  <%= t ".textHome2" %>
+</p>

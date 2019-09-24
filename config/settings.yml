@@ -1,0 +1,7 @@
+home:
+  homePage: "https://www.railstutorial.org/"
+help:
+  helpPage: "https://www.railstutorial.org/help"
+  book: "https://www.railstutorial.org/book"
+about:
+  screenCast: "http://screencasts.railstutorial.org/"

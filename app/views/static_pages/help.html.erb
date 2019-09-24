@@ -1,2 +1,12 @@
-<h1>StaticPages#help</h1>
-<p>Find me in app/views/static_pages/help.html.erb</p>
+<% provide :title, t("help") %>
+
+<%= link_to t("english"), locale: "en" %>
+<%= link_to t("vietnamese"), locale: "vi" %>
+
+<h1><%= t "help" %></h1> 
+<p> 
+  <%= t ".textHelp1" %>
+  <%= link_to t(".helpPage"), Settings.help.helpPage %>.        
+  <%= t ".textHelp2" %>
+  <%= link_to t(".textHelp3"), Settings.help.book %> <em><%= t "RoRTut" %></em><%= t ".textHelp4" %>
+</p>
