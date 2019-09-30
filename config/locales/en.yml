@@ -2,12 +2,15 @@ en:
   home: "Home"
   help: "Help"
   about: "About"
+  contact: "Contact"
+  login: "Log in"
   english: "English"
   vietnamese: "Vietnamese"
   RoRTut: "Ruby on Rails Tutorial"
   sampleApp: "Sample App"
   static_pages:
     home:
+      signUpNow: "Sign up now!"
       textHome1: "This is the home page for the"
       textHome2: "sample application."
     help:
@@ -24,3 +27,11 @@ en:
       textAbout5: "screencast series"
       textAbout6: "to teach web development with"
       textAbout7: "This is the sample application for the tutorial."
+    contact:
+      contactPage: "contact page"
+      textContact1: "Contact the Ruby on Rails Tutorial about the sample app at the"
+  layouts:
+    footer:
+      textFooter1: "The"
+      textFooter2: "by"
+      news: "News"

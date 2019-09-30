@@ -1,0 +1,13 @@
+<footer class="footer">
+  <small>
+    <%= t ".textFooter1" %> <%= link_to t("RoRTut"), Settings.home.homePage %>
+    <%= t ".textFooter2" %> <%= link_to "Michael Hartl", Settings.footer.michaelHartl %>
+  </small>
+  <nav>
+    <ul>
+      <li> <%= link_to t("about"), about_path %> </li>
+      <li> <%= link_to t("contact"), contact_path %> </li>
+      <li> <%= link_to t(".news"), Settings.footer.news %> </li>
+    </ul>
+  </nav>
+</footer>
