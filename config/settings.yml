@@ -1,7 +1,13 @@
 home:
   homePage: "https://www.railstutorial.org/"
+  rubyOnRails: "http://rubyonrails.org/"
 help:
   helpPage: "https://www.railstutorial.org/help"
   book: "https://www.railstutorial.org/book"
 about:
   screenCast: "http://screencasts.railstutorial.org/"
+contact:
+  contactPage: "https://www.railstutorial.org/contact"
+footer:
+  michaelHartl: "http://www.michaelhartl.com/"
+  news: "http://news.railstutorial.org/"
